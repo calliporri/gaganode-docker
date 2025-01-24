@@ -1,5 +1,7 @@
 #!/bin/sh
 
+TOKEN="obqbmxayydohqrhc9a977e15c9875e03"
+
 cat <<'EOF'
    ____          ____         _   _             _
   / ___|  __ _  / ___|  __ _ | \ | |  ___    __| |  ___
